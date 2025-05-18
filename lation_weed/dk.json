@@ -1,0 +1,185 @@
+{
+    "notify": {
+        "already-searched": "Denne plante er allerede blevet søgt",
+        "found-nothing": "You didn't find anything of interest here",
+        "max-plants": "You cannot plant anymore plants right now",
+        "max-tables": "You cannot place anymore tables right now",
+        "no-vehicle": "Am I high? Where in this car would I plant this..?",
+        "cant-place": "You cannot place that here",
+        "missing-item": "I am missing something here..",
+        "no-bud": "You do not have enough bud to do this",
+        "no-pot": "You are missing a pot to plant this in",
+        "pot-broke": "You broke the plant pot while harvesting",
+        "no-shovel": "You do not have a shovel to plant this",
+        "no-water": "You do not have enough water",
+        "no-fertilizer": "You do not have enough fertilizer",
+        "no-shears": "You do not have any shears to harvest this",
+        "no-money": "You do not have enough money",
+        "no-police": "There are not enough police in the city",
+        "all-added": "All plants have been added to the map",
+        "all-removed": "All plants have been removed from the map",
+        "one-added": "Plante tilføjet til kortet",
+        "one-removed": "Plante fjernet fra kortet",
+        "copied-coords": "Successfully copied to clipboard",
+        "set-gps": "Din GPS er blevet opdateret",
+        "cant-carry": "Du kan ikke løfte så meget",
+        "not-authorized": "You are not authorized to enter", Du har ikke tilladelse til at ko
+        "not-experienced": "You are not experienced enough to do this"
+    },
+    "target": {
+        "open-shop": "Åben forretning",
+        "search-plant": "Søg",
+        "check-status": "Tjek status",
+        "enter-lab": "Enter",
+        "exit-lab": "Exit",
+        "roll-weed": "Rul hash",
+        "bag-weed": "Bag weed",
+        "use-table": "Brug bord"
+    },
+    "textui": {
+        "weed-placement": "**Controls**  \n **W**: Move Forward  \n **S**: Move Backward  \n **A**: Move Left  \n **D**: Move Right  \n **X**: Cancel  \n **Space**: Confirm",
+        "table-placement": "**Controls**  \n **Q**: Rotate Left  \n **E**: Rotate Right  \n **W**: Move Forward  \n **S**: Move Backward  \n **A**: Move Left  \n **D**: Move Right  \n **X**: Cancel  \n **Space**: Confirm",
+        "open-shop": "**Smoke on the Water**  \n E - Open Shop",
+        "search-plant": "**Hash plante**  \n E - Search",
+        "check-status": "**Hash plante**  \n E - Check status",
+        "enter-lab": "**Hash laboratie**  \n E - Enter",
+        "exit-lab": "**Hash laboratie**  \n E - Exit",
+        "roll-weed": "**Rolling Table**  \n E - Start Rolling",
+        "bag-weed": "**Bagging Table**  \n E - Start Bagging",
+        "use-table": "**Weed Table**  \n E - Use"
+    },
+    "plant-menu": {
+        "police-title": "Politi handlinger",
+        "thirst-title": "Tørst",
+        "thirst-desc": "Nuværende tørst mængde - %.1f%% (Klik her for at vande)",
+        "hunger-title": "Sult",
+        "hunger-desc": "Current hunger level - %.1f%% (Klik her for at fodre)",
+        "growth-title": "Growth",
+        "growth-desc": "Current growth level - %.1f%%",
+        "quality-title": "Kvalitet",
+        "quality-desc": "Current quality level - %.1f%%",
+        "destroy-title": "Ødelæg",
+        "destroy-desc": "Irreversibly destroy this plant",
+        "harvest-title": "Høst",
+        "harvest-desc-not-ready": "Harvesting is only available at 100% growth",
+        "harvest-desc-ready": "Du kan nu høste denne plante"
+    },
+    "stats-menu": {
+        "level-title": "Growing | Level %s/%s",
+        "level-desc": "You currently have %sXP",
+        "stats-title": "Livstid statistikker",
+        "stats-desc": "View your lifetime growing statistics",
+        "meta-next-level": "Næste Level",
+        "meta-remainder": "Remainder",
+        "meta-maxed-level": "Maxed Level Reached",
+        "main-title": "Livstid statistikker",
+        "searched-title": "Planter Searched",
+        "searched-desc": "You've searched a total of %s plants",
+        "grown-title": "Planter groet",
+        "grown-desc": "You've grown a total of %s plants",
+        "produced-title": "Bud Harvested",
+        "produced-desc": "You've harvested a total of %s bud",
+        "rolled-title": "Joints rullet",
+        "rolled-desc": "You've rolled a total of %s joints",
+        "bagged-title": "Hash Bagged",
+        "bagged-desc": "You've bagged a total of %s hash"
+    },
+    "table-menu": {
+        "main-menu-title": "Vælg handling",
+        "rolling-title": "Start rulning",
+        "rolling-desc": "Select to see rolling menu",
+        "bagging-title": "Start Bagging",
+        "bagging-desc": "Select to see bagging menu",
+        "packup-title": "Saml op",
+        "packup-desc": "Pack everything up and move this table"
+    },
+    "admin-menu": {
+        "main-menu-title": "Plant Management",
+        "total-title": "Total plante mængde",
+        "total-desc": "There are currently %s active plant(s)",
+        "by-id-title": "View Plants by Plant ID",
+        "by-id-desc": "View details of each plant by its ID",
+        "by-owner-title": "View Plants by Owner",
+        "by-owner-desc": "View all plants grouped by their owners",
+        "add-blips-title": "Add Blips to Map",
+        "add-blips-desc": "Display all plants as blips on the map",
+        "remove-blips-title": "Remove Blips from Map",
+        "remove-blips-desc": "Remove all plant blips from the map",
+        "by-id-menu-main-title": "Planter af ID",
+        "by-id-menu-plant-title": "Plante ID: %s",
+        "by-id-menu-plant-desc": "Klik for at se detaljer",
+        "by-owner-menu-main-title": "Planter af ejer",
+        "by-owner-menu-owner-title": "Ejer | Klik for at se planter",
+        "plants-of-owner-main-title": "Planter af ejer",
+        "plants-of-owner-title": "Plant ID: %s",
+        "plants-of-owner-desc": "Click to view details",
+        "plant-details-main-title": "Plant ID: %s",
+        "plant-details-owner-online-title": "Ejer | ONLINE",
+        "plant-details-owner-offline-title": "Ejer | OFFLINE",
+        "plant-details-location-title": "Lokation",
+        "plant-details-teleport-title": "Teleporter til plante",
+        "plant-details-teleport-desc": "Teleporter til plantens lokation",
+        "plant-details-gps-title": "Sæt GPS to plante",
+        "plant-details-gps-desc": "Create a waypoint to the plant",
+        "plant-details-add-blip-title": "Tilføj til kort",
+        "plant-details-add-blip-desc": "Create a blip for this plant",
+        "plant-details-remove-blip-title": "Fjern fra kort",
+        "plant-details-remove-blip-desc": "Remove the blip for this plant",
+        "plant-details-delete-title": "Slet plante",
+        "plant-details-delete-desc": "Irreversibly delete this plant",
+        "plant-details-copy-coords": "Click to copy coordinates to clipboard",
+        "plant-details-copy-identifier": "Click to copy identifier to clipboard"
+    },
+    "rolling-menu": {
+        "title": "Rulle bord",
+        "desc": "Du har %s %s tilgængelig"
+    },
+    "bagging-menu": {
+        "title": "Bagging bord",
+        "desc": "Du har %s %s tilgængelig"
+    },
+    "shop-menu": {
+        "title": "Smoke on the Water",
+        "desc": "Køb %s for $%s"
+    },
+    "destroy-alert": {
+        "header": "**Godkend**",
+        "content": "You are about to irreversibly destroy this plant and receive nothing in return, *are you sure you want to continue?*"
+    },
+    "pickup-alert": {
+        "header": "**Godkend handling**",
+        "content": "Are you sure you want to pack up the table?"
+    },
+    "rolling-input": {
+        "title": "Rullebord",
+        "label": "Mængde",
+        "desc": "Hvor mange %s's vil du rulle?"
+    },
+    "bagging-input": {
+        "title": "Bagging Table",
+        "label": "Mængde",
+        "desc": "Hvor mange %s's har du lyst til at bag?"
+    },
+    "shop-input": {
+        "label": "Mængde",
+        "desc": "Hvor mange har du lyst til at købe?"
+    },
+    "logs": {
+        "searched-title": "Frø fundet",
+        "searched-message": "%s (identifier: %s) har fundet x%s %s",
+        "planted-title": "Ny plante",
+        "planted-message": "%s (identifier: %s) har plantet en ny %s plante (id: %s)",
+        "plant-fed-title": "Plant Fertilized",
+        "plant-fed-message": "%s (identifier: %s) has fertilized en plante (id: %s)",
+        "plant-watered-title": "Plante vandet",
+        "plant-watered-message": "%s (identifier: %s) har vandet en plante (id: %s)",
+        "plant-harvested-title": "Plante høstet",
+        "plant-harvested-message": "%s (identifier: %s) har høstet en plante og modtaget x%s %s og x%s %s (id: %s)",
+        "plant-deleted-title": "Plante slettet",
+        "plant-deleted-message": "%s (identifier: %s) har slettet en plante (id: %s)",
+        "weed-rolled-title": "Joint(s) rullet",
+        "weed-rolled-message": "%s (identifier: %s) har rullet x%s %s",
+        "weed-bagged-title": "Tjald",
+        "weed-bagged-message": "%s (identifier: %s) har b x%s %s"
+    }
+}
